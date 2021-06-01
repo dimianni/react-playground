@@ -1,0 +1,7 @@
+.Section {
+    height: 100px;
+    background-color: khaki;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
